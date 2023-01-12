@@ -1,2 +1,2 @@
 # Comptes-et-Budgets
-Program which help to manage his own finance.
+Programme qui a pour but d'aider l'utilisateur à gérer ses finances.
